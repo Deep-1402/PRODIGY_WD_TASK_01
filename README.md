@@ -1,2 +1,3 @@
 # PRODIGY_WD_TASK_01
-Prodigy Infotech Web Development Internship. This is First Task "Responsive Landing Page".
+Prodigy Infotech<br>
+Prodigy Infotech Web Development Internship. <br>This is First Task "Responsive Landing Page".
