@@ -42,6 +42,10 @@
   #check{
     display: none;
   }
+  #bd{
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
   @media (max-width: 952px){
     label.logo{
       font-size: 30px;
@@ -49,11 +53,16 @@
     }
     nav ul li a{
       font-size: 16px;
+      cursor:pointer;
     }
   }
   @media (max-width: 858px){
     .checkbtn{
       display: block;
+    }
+    #bd{
+      background-repeat: no-repeat;
+      background-size: auto;
     }
     ul{
       position: fixed;
@@ -89,6 +98,7 @@
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
+    cursor:pointer;
   }
   nav ul li a{
     color: black;
